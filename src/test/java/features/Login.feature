@@ -23,4 +23,4 @@ Feature: This feature is use to design the Login page of SauceLabs
   
     Examples: 
       | Username | Password     | Error                                                                     | 
-      | priya    | secret_sauce | Epic sadface: Username and password do not match any user in this service | 
+      | mirza    | secret_sauce | Epic sadface: Username and password do not match any user in this service | 
